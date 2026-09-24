@@ -4,7 +4,7 @@
 - **Nome:** Francisca Costa Cardoso
 - **ID:** a112105
 - **Foto:**
-<img src="fotopgithub.jpg" alt="Foto de Perfil" width="150"/>
+    <img src="fotopgithub.jpg" alt="Foto de Perfil" width="150"/>
 
 ## Resumo
 O objetivo deste trabalho prático foi definir uma expressão regular para validar palavras binárias que **não contêm** a sequência contígua "011".
