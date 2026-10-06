@@ -1,4 +1,4 @@
-# TPC2: Conversor de MarkDown para HTML"
+# TPC2: Conversor de MarkDown para HTML
 
 ## Autor
 - **Nome:** Francisca Costa Cardoso
