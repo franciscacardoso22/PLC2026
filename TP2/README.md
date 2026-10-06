@@ -20,9 +20,9 @@ A solução recorre ao módulo `re` do Python, aplicando substituições sequenc
 3. **Listas em duas etapas:** Primeiro, cada linha numerada é convertida na sua tag de item (`<li>...</li>`); de seguida, blocos contínuos de itens são envolvidos pela tag `<ol>...</ol>`.
 
 ## Ficheiro de Teste e Validação
-Para validar o correto funcionamento do código, criei um ficheiro de teste (`exemplo.md`) que contém instâncias de todos os casos enunciados. O problema lê este ficheiro de entrada e gera automaticamente o ficheiro `resultado.html` com o código estruturado final. 
+Para validar o correto funcionamento do código, criei um ficheiro de teste (`exemplo.md`) que contém instâncias de todos os casos enunciados. O programa lê este ficheiro de entrada e gera automaticamente o ficheiro `resultado.html` com o código estruturado final. 
 
 ## Lista de Resultados
 * [Conversor de MarkDown para HTML (conversor.py)](conversor.py)
 * [Ficheiro de Teste (exemplo.md)](exemplo.md)
-* [Ficheiro HTML gerado](resultado.html)
+* [Ficheiro HTML gerado (resultado.html)](resultado.html)
