@@ -4,7 +4,7 @@
 - **Nome:** Francisca Costa Cardoso
 - **ID:** a112105
 - **Foto:**
-<img src="fotopgithub.jpg" alt="Foto de Perfil" width="150"/>
+<img src="IMG_0331.jpeg" alt="Foto de Perfil" width="150"/>
 
 ## Resumo
 O objetivo deste trabalho prático foi desenvolver em Python capaz de transformar anotações em MarkDown na sua representação equivalente em HTML, cobrindo os elementos básicos de sintaxe:
