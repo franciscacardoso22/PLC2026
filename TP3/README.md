@@ -8,9 +8,9 @@
 
 ## Resumo
 O objetivo deste trabalho prático foi desenvolver um analisador léxico em Python para uma linguagem de *query* específica.
-O analisador converte um texto de entrada numa sequência baseada de *tokens* válidos, ignorando espaços em branco e comentários.
+O analisador converte um texto de entrada numa sequência de *tokens* válidos, ignorando espaços em branco e comentários.
 
-Para a implementação, seguiu-se a abordagem baseada em expressões reguladores com grupos nomeados (*Named Groups*), utilizando a função `re.finditer()` do módulo `re`. A ordem das expressões regulares no padrão principal foi cuidadosamente definida para garantir a precedência correta (por exemplo, palavras reservadas como `LIMIT` são capturadas antes de identificadores genéricos de conceitos).
+Para a implementação, seguiu-se a abordagem baseada em expressões regulares com grupos nomeados (*Named Groups*), utilizando a função `re.finditer()` do módulo `re`. A ordem das expressões regulares no padrão principal foi cuidadosamente definida para garantir a precedência correta (por exemplo, palavras reservadas como `LIMIT` são capturadas antes de identificadores genéricos de conceitos).
 
 ## Lista de Resultados
 * [Analisador Léxico (analisador.py)](analisador.py)
